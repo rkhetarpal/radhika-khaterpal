@@ -119,10 +119,10 @@ export default function ProjectsSection() {
                 ))}
               </div>
 
-              <button className="inline-flex items-center gap-2 text-blue-900 font-semibold">
+              {/* <button className="inline-flex items-center gap-2 text-blue-900 font-semibold">
                 View Details
                 <ExternalLink size={16} />
-              </button>
+              </button> */}
             </div>
           ))}
         </div>
