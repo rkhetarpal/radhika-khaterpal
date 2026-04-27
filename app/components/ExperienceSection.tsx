@@ -11,7 +11,7 @@ export default function ExperienceSection() {
       duration: "Aug 2024 – Mar 2026",
       highlights: [
         "Sole developer responsible for end-to-end feature development, deployment, production maintenance, and platform optimization",
-        "Built scalable backend services and custom platform features using PHP, MySQL, and CS-Cart",
+        "Built scalable backend services and custom platform features using PHP and MySQL",
         "Integrated AI-powered product and category generation using Gemini and AWS Bedrock",
         "Improved vendor onboarding from 25 to 350+ vendors",
         "Reduced MySQL queries from 400 to 2 per page, significantly improving performance",

@@ -23,7 +23,7 @@ export default function ProjectsSection() {
       type: "Production Platform",
       description:
         "Built and optimized scalable backend workflows, vendor onboarding systems, AI-powered product generation, and performance-heavy MySQL improvements for a live B2B/B2C marketplace platform.",
-      tech: ["PHP", "MySQL", "AWS", "Gemini", "CS-Cart"],
+      tech: ["PHP", "MySQL", "AWS", "Gemini"],
       icon: <Briefcase size={20} />,
     },
     {
